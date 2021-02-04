@@ -1,0 +1,40 @@
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.exe
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.deps.json
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.runtimeconfig.json
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.runtimeconfig.dev.json
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.dll
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.pdb
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.Views.dll
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\bin\Debug\netcoreapp3.1\assignment 3.2.Views.pdb
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.csprojAssemblyReference.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.AssemblyInfoInputs.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.AssemblyInfo.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.csproj.CoreCompileInputs.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.RazorAssemblyInfo.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.RazorAssemblyInfo.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\staticwebassets\assignment 3.2.StaticWebAssets.Manifest.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\staticwebassets\assignment 3.2.StaticWebAssets.xml
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\scopedcss\bundle\assignment 3.2.styles.css
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.TagHelpers.input.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.TagHelpers.output.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.RazorCoreGenerate.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Movies.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Movies_Form.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Home\My_Podcasts.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.RazorTargetAssemblyInfo.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.RazorTargetAssemblyInfo.cs
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.Views.pdb
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.dll
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.pdb
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.genruntimeconfig.cache
+C:\Users\lukyb\Desktop\IS413\assignment 3.2\assignment 3.2\obj\Debug\netcoreapp3.1\assignment 3.2.csproj.CopyComplete
